@@ -37,7 +37,7 @@
 
 ---
 
-&copy; Felix. Inc. &bull; [Privacy Policy](https://privacy.policy.com)
+&copy; Felix. Inc. &bull; [Privacy Policy](https://policy.com)
 
 <!---
 FelixStudios/FelixStudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
