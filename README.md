@@ -45,35 +45,6 @@ Thanks for visiting my profile! 😊
 
 ---
 
-## 🐘 **Gradle Build Tool** 
-
-**[Gradle](https://gradle.org/)** is a highly scalable build automation tool designed to handle everything from large, multi-project enterprise builds to quick development tasks across various languages. Gradle’s modular, performance-oriented architecture seamlessly integrates with development environments, making it a go-to solution for building, testing, and deploying applications on **Java**, **Kotlin**, **Scala**, **Android**, **Groovy**, **C++**, and **Swift**.
-
-> For a comprehensive overview, please visit the [official Gradle project homepage](https://gradle.org).
-
----
-
-### 🚀 **Getting Started**
-
-Starting with Gradle is easy with these essential resources. Follow these to install Gradle, set up initial projects, and explore supported platforms:
-
-- **[Installing Gradle](https://docs.gradle.org/current/userguide/installation.html)**
-- **Build Projects for Popular Languages and Frameworks**:
-  - [Java Applications](https://docs.gradle.org/current/samples/sample_building_java_applications.html)
-  - [Java Modules](https://docs.gradle.org/current/samples/sample_java_modules_multi_project.html)
-  - [Android Apps](https://developer.android.com/studio/build/index.html)
-  - [Groovy Applications](https://docs.gradle.org/current/samples/sample_building_groovy_applications.html)
-  - [Kotlin Libraries](https://docs.gradle.org/current/samples/sample_building_kotlin_libraries.html)
-  - [Scala Applications](https://docs.gradle.org/current/samples/sample_building_scala_applications.html)
-  - [Spring Boot Web Apps](https://docs.gradle.org/current/samples/sample_building_spring_boot_web_applications.html)
-  - [C++ Libraries](https://docs.gradle.org/current/samples/sample_building_cpp_libraries.html)
-  - [Swift Apps](https://docs.gradle.org/current/samples/sample_building_swift_applications.html)
-  - [Swift Libraries](https://docs.gradle.org/current/samples/sample_building_swift_libraries.html)
-
-> 📘 Explore Gradle’s full array of resources through the [Gradle Documentation](https://docs.gradle.org/).
-
----
-
 <br><br>
 <div align="center" style="margin-top: 20px;">
     <a href="https://www.linkedin.com/company/gradle/">
